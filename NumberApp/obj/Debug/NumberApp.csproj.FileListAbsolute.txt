@@ -1,0 +1,9 @@
+E:\.NET Web App(Batch-4)\25-04-15\NumberApp\NumberApp\bin\Debug\NumberApp.exe.config
+E:\.NET Web App(Batch-4)\25-04-15\NumberApp\NumberApp\bin\Debug\NumberApp.exe
+E:\.NET Web App(Batch-4)\25-04-15\NumberApp\NumberApp\bin\Debug\NumberApp.pdb
+E:\.NET Web App(Batch-4)\25-04-15\NumberApp\NumberApp\obj\Debug\NumberApp.csprojResolveAssemblyReference.cache
+E:\.NET Web App(Batch-4)\25-04-15\NumberApp\NumberApp\obj\Debug\NumberApp.Form1.resources
+E:\.NET Web App(Batch-4)\25-04-15\NumberApp\NumberApp\obj\Debug\NumberApp.Properties.Resources.resources
+E:\.NET Web App(Batch-4)\25-04-15\NumberApp\NumberApp\obj\Debug\NumberApp.csproj.GenerateResource.Cache
+E:\.NET Web App(Batch-4)\25-04-15\NumberApp\NumberApp\obj\Debug\NumberApp.exe
+E:\.NET Web App(Batch-4)\25-04-15\NumberApp\NumberApp\obj\Debug\NumberApp.pdb
